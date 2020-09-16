@@ -8,7 +8,6 @@ Contents:
   - [Item 2](#item-2)
   - [Item 3](#item-3)
   - [ADRs](#adrs)
-  - [Item 4](#item-4)
 
 
 ## Item 1
@@ -46,11 +45,3 @@ console.log(foo(5));
 ## ADRs
 - [0001-ADRNameDescriptive](docs/adr/0001-ADRNameDescriptive.md)
 - [0002-RegularSessionLastSeen](docs/adr/0002-RegularSessionLastSeen.md)
-
-## Item 4
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
