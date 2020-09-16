@@ -3,7 +3,7 @@
 	"ADR Index Starter": {
 		"prefix": "adr-index",
 		"body": [
-			"## ADR\r",
+			"## ADRs\r",
 			"- [0001-AmazonS3](docs/adr/0001-AmazonS3.md)\r",
 			"- [0002-Stripe](docs/adr/0001-Stripe.md)"
 		],
