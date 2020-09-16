@@ -11,9 +11,9 @@ Contents:
   - [VSCode Snippets for ADRs](#vscode-snippets-for-adrs)
 
 ## What is an architecture decision record?
-Think of architecture decision record as a document or record that will capture and important architectural change/decision in your project. 
+Think of architecture decision record (ADR) as a document that will capture and important architectural decision in your project. 
 
-It's a record in time to which you can point and see what decision was made, why it was made and what are the consequences of that decision. 
+It's a record in time to which you can point and see what decision was made, why it was made and what are the consequences. 
 
 ADRs are like a note to your future self explainig why you did a thing in a certain way. (or to a future teammate/owner)
 
@@ -21,7 +21,7 @@ ADRs are like a note to your future self explainig why you did a thing in a cert
 ## Why and when should you use ADRs?
 
 ### Why
-We needed a better overview of what changes were made in the past and why. 
+We needed a better overview of what changes/decisions were made in the past and why. 
 
 In most projects you use a git repository and you might have a project management tool like Clubhouse. 
 
