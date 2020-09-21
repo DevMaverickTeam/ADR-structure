@@ -11,7 +11,7 @@ Contents:
   - [VSCode Snippets for ADRs](#vscode-snippets-for-adrs)
 
 ## What is an architecture decision record?
-Think of architecture decision record (ADR) as a document that will capture and important architectural decision in your project. 
+Think of architecture decision record (ADR) as a document that will capture an important architectural decision in your project. 
 
 It's a record in time to which you can point and see what decision was made, why it was made and what are the consequences. 
 
